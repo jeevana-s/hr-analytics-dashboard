@@ -1,0 +1,1 @@
+select * from cleaned_hr_data limit 5;
